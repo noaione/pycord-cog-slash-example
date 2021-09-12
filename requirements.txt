@@ -1,0 +1,3 @@
+aiohttp==3.7.4.post0
+# Discord.py/pycord git
+-e git+https://github.com/naoTimesdev/pycord.git@feature/slash-cogs#egg=pycord
